@@ -43,6 +43,7 @@ Atendimento a chamados da área de segurança (Security)
 Monitoramento de emergências e apoio a procedimentos preventivos
 
 🛠️ Habilidades Técnicas
+
 Linguagens e Frameworks: HTML, JavaScript, CSS, Java, NodeJS, RStudio (Básico)
 Bancos de Dados: MySQL Workbench (Básico)
 Metodologias: SCRUM
@@ -53,6 +54,7 @@ Análise de Dados: Excel e Power BI (Intermediário)
 Sistemas Operacionais: Windows, Linux (Ubuntu, Lubuntu) (Básico)
 
 🤝 Soft Skills
+
 Comunicação clara e assertiva
 Resiliência frente a desafios
 Colaboração e trabalho em equipe
@@ -62,6 +64,7 @@ Foco e atenção aos detalhes
 Mentalidade de aprendizado contínuo
 
 📊 Projetos em Destaque
+
 Sistema de Detecção de Intrusão com Análise de Logs
 Um sistema que monitora logs de sistema e rede para identificar atividades suspeitas, utilizando Python, análise de dados e técnicas de machine learning.
 Ver Repositório
@@ -70,6 +73,7 @@ Uma ferramenta que analisa aplicações web em busca de vulnerabilidades comuns 
 Ver Repositório
 
 📫 Contato
+
 Celular: (11) 94551-5241
 WhatsApp: (11) 94985-5005
 Email: arielnatan.contato@outlook.com

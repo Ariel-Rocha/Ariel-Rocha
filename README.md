@@ -9,6 +9,7 @@ Ariel Natan Weber Coelho Rocha
 
 
 👨‍💻 Sobre Mim
+
 Profissional com formação em Segurança da Informação pela UNIP e atualmente cursando Ciência da Computação na SPTech, buscando oportunidade inicial na área de Tecnologia da Informação. 
 Possuo base em análise de dados, monitoramento de infraestrutura, análise de vulnerabilidades e boas práticas em segurança da informação.
 Meu objetivo é atuar como Analista de Segurança da Informação, Infraestrutura ou Suporte, aplicando conhecimentos em redes, análise de vulnerabilidades, automações e análise de dados.
@@ -19,6 +20,7 @@ São Paulo Tech School - SPTECH
 Segurança da Informação (Tecnólogo - Concluído)
 
 Universidade Paulista - UNIP (2022-2024)
+
 🔐 Certificações
 Certificado de Fundamentos em Redes IBSEC (Maio/2025)
 Certificado de Segurança na Nuvem (Cloud Security) IBSEC (Maio/2025)

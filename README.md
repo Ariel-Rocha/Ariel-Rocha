@@ -21,13 +21,16 @@ Segurança da Informação (Tecnólogo - Concluído)
 
 Universidade Paulista - UNIP (2022-2024)
 
-🔐 Certificações
-Certificado de Fundamentos em Redes IBSEC (Maio/2025)
-Certificado de Segurança na Nuvem (Cloud Security) IBSEC (Maio/2025)
-Certificado de Analista de Cibersegurança (Governança) IBSEC (Maio/2025)
-Certificado de Boas Práticas de Cibersegurança IBSEC (Junho/2024)
 
-💼 Experiência Profissional
+## 🏆🔐  Certificações:
+
+[![Fundamnetos-de-Redes IBSEC](https://img.shields.io/badge/Certificado-Fundamentos_em_Redes-blue )](https://certs.ibsec.com.br?cert_hash=5426e8787b48e092) (Maio/2025)
+[![Cloud Security_IBSEC](https://img.shields.io/badge/Certificado-Segurança_na_Nuvem-blue )](https://certs.ibsec.com.br?cert_hash=38f720686a5a06ec) (Maio/2025)
+[![Analista-de-Cibersegurança_IBSEC](https://img.shields.io/badge/Certificado-Analista_de_Cibersegurança-blue )](https://certs.ibsec.com.br?cert_hash=fffd44c4ff975f55) (Maio/2025)
+[![Boas Práticas](https://img.shields.io/badge/Certificado-Boas_Práticas_de_Cibersegurança-blue )](https://certs.ibsec.com.br?cert_hash=6a08d1536c059eec) (Junho/2024)
+
+💼 Experiência Profissional:
+
 Sodexo Comercial Brasil (Junho/2021 - Janeiro/2024)
 Auxiliar Administrativo
 Suporte administrativo direto a gerentes, diretores e sócios

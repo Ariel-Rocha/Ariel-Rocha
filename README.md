@@ -1,6 +1,6 @@
 Ariel Natan Weber Coelho Rocha
 
-# Ariel Natan Weber Coelho Rocha
+## Ariel Natan Weber Coelho Rocha
 
 <a href="https://www.linkedin.com/in/arielnatan-rocha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:arielnatan.contato@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -8,7 +8,7 @@ Ariel Natan Weber Coelho Rocha
 
 
 
-👨‍💻 Sobre Mim
+## 👨‍💻 Sobre Mim
 
 Profissional com formação em Segurança da Informação pela UNIP e atualmente cursando Ciência da Computação na SPTech, buscando oportunidade inicial na área de Tecnologia da Informação. 
 Possuo base em análise de dados, monitoramento de infraestrutura, análise de vulnerabilidades e boas práticas em segurança da informação.
@@ -29,7 +29,7 @@ Universidade Paulista - UNIP (2022-2024)
 [![Analista-de-Cibersegurança_IBSEC](https://img.shields.io/badge/Certificado-Analista_de_Cibersegurança-blue )](https://certs.ibsec.com.br?cert_hash=fffd44c4ff975f55) (Maio/2025)
 [![Boas Práticas](https://img.shields.io/badge/Certificado-Boas_Práticas_de_Cibersegurança-blue )](https://certs.ibsec.com.br?cert_hash=6a08d1536c059eec) (Junho/2024)
 
-💼 Experiência Profissional:
+## 💼 Experiência Profissional:
 
 Sodexo Comercial Brasil (Junho/2021 - Janeiro/2024)
 Auxiliar Administrativo
@@ -45,7 +45,7 @@ Análise de dashboards integrados sobre controle de acesso, alarmes e CFTV
 Atendimento a chamados da área de segurança (Security)
 Monitoramento de emergências e apoio a procedimentos preventivos
 
-🛠️ Habilidades Técnicas
+## 🛠️ Habilidades Técnicas
 
 Linguagens e Frameworks: HTML, JavaScript, CSS, Java, NodeJS, RStudio (Básico)
 Bancos de Dados: MySQL Workbench (Básico)
@@ -56,7 +56,7 @@ IDEs e Ferramentas: VSCode, IntelliJ IDEA, Postman (Básico)
 Análise de Dados: Excel e Power BI (Intermediário)
 Sistemas Operacionais: Windows, Linux (Ubuntu, Lubuntu) (Básico)
 
-🤝 Soft Skills
+## 🤝 Soft Skills
 
 Comunicação clara e assertiva
 Resiliência frente a desafios
@@ -66,7 +66,7 @@ Flexibilidade para adaptação a mudanças
 Foco e atenção aos detalhes
 Mentalidade de aprendizado contínuo
 
-📊 Projetos em Destaque
+## 📊 Projetos em Destaque
 
 Sistema de Detecção de Intrusão com Análise de Logs
 Um sistema que monitora logs de sistema e rede para identificar atividades suspeitas, utilizando Python, análise de dados e técnicas de machine learning.
@@ -75,10 +75,14 @@ Ferramenta de Análise de Vulnerabilidades Web
 Uma ferramenta que analisa aplicações web em busca de vulnerabilidades comuns (OWASP Top 10), realizando testes automatizados e gerando relatórios detalhados.
 Ver Repositório
 
-📫 Contato
+## 📫 Contato
 
 Celular: (11) 94551-5241
+
 WhatsApp: (11) 94985-5005
+
 Email: arielnatan.contato@outlook.com
+
 LinkedIn: linkedin.com/in/arielnatan-rocha
+
 GitHub: github.com/Ariel-Rocha
